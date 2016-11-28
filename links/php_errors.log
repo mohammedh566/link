@@ -1,0 +1,3 @@
+[28-Nov-2016 15:53:28 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::all() in /home/ubuntu/workspace/links/routes/web.php on line 28
+[28-Nov-2016 15:54:56 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::all() in /home/ubuntu/workspace/links/routes/web.php on line 28
+[28-Nov-2016 15:55:10 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::all() in /home/ubuntu/workspace/links/routes/web.php on line 28

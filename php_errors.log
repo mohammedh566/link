@@ -1,0 +1,47 @@
+[28-Nov-2016 15:29:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/links/routes/web.php on line 26
+[28-Nov-2016 15:30:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/links/routes/web.php on line 26
+[28-Nov-2016 15:32:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/links/routes/web.php on line 26
+[28-Nov-2016 15:33:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/links/routes/web.php on line 26
+[28-Nov-2016 15:34:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/links/routes/web.php on line 26
+[28-Nov-2016 15:35:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/links/routes/web.php on line 26
+[28-Nov-2016 15:37:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/links/routes/web.php on line 26
+[28-Nov-2016 15:52:35 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::all() in /home/ubuntu/workspace/links/routes/web.php on line 28
+[28-Nov-2016 15:52:35 UTC] PHP Fatal error:  Uncaught exception 'Illuminate\Contracts\Container\BindingResolutionException' with message 'Target [Illuminate\Contracts\Debug\ExceptionHandler] is not instantiable.' in /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php:763
+Stack trace:
+#0 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php(644): Illuminate\Container\Container->build('Illuminate\\Cont...', Array)
+#1 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(709): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#2 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#3 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#4 /home/ubuntu/workspace/l in /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 763
+[28-Nov-2016 15:52:49 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::all() in /home/ubuntu/workspace/links/routes/web.php on line 28
+[28-Nov-2016 15:52:49 UTC] PHP Fatal error:  Uncaught exception 'Illuminate\Contracts\Container\BindingResolutionException' with message 'Target [Illuminate\Contracts\Debug\ExceptionHandler] is not instantiable.' in /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php:763
+Stack trace:
+#0 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php(644): Illuminate\Container\Container->build('Illuminate\\Cont...', Array)
+#1 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(709): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#2 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#3 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#4 /home/ubuntu/workspace/l in /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 763
+[28-Nov-2016 15:54:15 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::all() in /home/ubuntu/workspace/links/routes/web.php on line 28
+[28-Nov-2016 15:54:15 UTC] PHP Fatal error:  Uncaught exception 'Illuminate\Contracts\Container\BindingResolutionException' with message 'Target [Illuminate\Contracts\Debug\ExceptionHandler] is not instantiable.' in /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php:763
+Stack trace:
+#0 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php(644): Illuminate\Container\Container->build('Illuminate\\Cont...', Array)
+#1 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(709): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#2 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#3 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#4 /home/ubuntu/workspace/l in /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 763
+[28-Nov-2016 15:55:46 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::all() in /home/ubuntu/workspace/links/routes/web.php on line 28
+[28-Nov-2016 15:55:46 UTC] PHP Fatal error:  Uncaught exception 'Illuminate\Contracts\Container\BindingResolutionException' with message 'Target [Illuminate\Contracts\Debug\ExceptionHandler] is not instantiable.' in /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php:763
+Stack trace:
+#0 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php(644): Illuminate\Container\Container->build('Illuminate\\Cont...', Array)
+#1 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(709): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#2 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#3 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#4 /home/ubuntu/workspace/l in /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 763
+[28-Nov-2016 15:56:31 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::all() in /home/ubuntu/workspace/links/routes/web.php on line 28
+[28-Nov-2016 15:56:31 UTC] PHP Fatal error:  Uncaught exception 'Illuminate\Contracts\Container\BindingResolutionException' with message 'Target [Illuminate\Contracts\Debug\ExceptionHandler] is not instantiable.' in /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php:763
+Stack trace:
+#0 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php(644): Illuminate\Container\Container->build('Illuminate\\Cont...', Array)
+#1 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(709): Illuminate\Container\Container->make('Illuminate\\Cont...', Array)
+#2 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(154): Illuminate\Foundation\Application->make('Illuminate\\Cont...')
+#3 /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): Illuminate\Foundation\Bootstrap\HandleExceptions->getExceptionHandler()
+#4 /home/ubuntu/workspace/l in /home/ubuntu/workspace/links/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 763
